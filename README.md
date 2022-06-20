@@ -1,20 +1,96 @@
-<!--
-**TomReilly1/TomReilly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Thomas Reilly</h1>
 <h3 align="center">Software Engineer</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br>
+<br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/thomas-reilly-75b06a213/" align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8"
+         style="width: auto; height: 3rem;"
+    />
+  </a>
+  &emsp;&emsp;
+  <a href="https://thomasreilly.netlify.app/" align="center">
+    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge"
+         style="width: auto; height: 3rem;"
+    />
+  </a>
+</div>
+
+<br>
+<br>
+
+<h2 align="center">&#x2692; Tools and Skills &#x1F6E0;</h2>
+
+<h3 align="center">Frontend Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=html5&logoColor=orange&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=css3&logoColor=48A8E1&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/JavaScript-JavaScript?style=for-the-badge&logo=javascript&logoColor=FFE900&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Node.js-Nodejs?&style=for-the-badge&logo=node.js&logoColor=green&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Vue-Vue?&style=for-the-badge&logo=vue.js&logoColor=28B767&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Bootstrap-Bootstrap?&style=for-the-badge&logo=bootstrap&logoColor=A748E8&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+</p>
+
+<br>
+
+<h3 align="center">Backend Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-JavaScript?style=for-the-badge&logo=javascript&logoColor=FFE900&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Node.js-Nodejs?&style=for-the-badge&logo=node.js&logoColor=green&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Express.js-Express?&style=for-the-badge&logo=express&logoColor=black&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Python-Python?&style=for-the-badge&logo=python&logoColor=FFE900&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Flask-Flask?&style=for-the-badge&logo=flask&logoColor=black&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/NGINX-NGINX?&style=for-the-badge&logo=nginx&logoColor=brightgreen&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+</p>
+
+<br>
+
+<h3 align="center">Data and Database Management</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=for-the-badge&logo=postgresql&logoColor=lightblue&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/MySQL-MySQL?&style=for-the-badge&logo=mysql&logoColor=lightblue&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/SQLite-SQLite?&style=for-the-badge&logo=sqlite&logoColor=48A8E1&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/JSON-JSON?style=for-the-badge&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/XML-XML?&style=for-the-badge&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+</p>
+
+<br>
+
+<h3 align="center">System Administration</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-Bash?style=for-the-badge&logo=gnubash&logoColor=black&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/Ubuntu-Ubuntu?&style=for-the-badge&logo=ubuntu&logoColor=orange&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/REHL-REHL?style=for-the-badge&logo=redhat&logoColor=F82525&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+</p>
+
+<br>
+
+<h3 align="center">Version Control</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=orange&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+  <img src="https://img.shields.io/badge/GitHub-GitHub?&style=for-the-badge&logo=github&logoColor=black&color=grey"
+       style="width: auto; height: 3rem;"/>&emsp;
+</p>
