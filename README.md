@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thomas-reilly-75b06a213/" align="center">
+  <a href="https://www.linkedin.com/in/thomas-reilly-dev/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8"
          style="width: auto; height: 3rem;"
     />
