@@ -33,7 +33,7 @@
        style="width: auto; height: 3rem;"/>&emsp;
   <img src="https://img.shields.io/badge/Node.js-Nodejs?&style=for-the-badge&logo=node.js&logoColor=green&color=grey"
        style="width: auto; height: 3rem;"/>&emsp;
-  <img src="https://img.shields.io/badge/Vue-Vue?&style=for-the-badge&logo=vue.js&logoColor=28B767&color=grey"
+  <img src="https://img.shields.io/badge/Vue.js-Vue?&style=for-the-badge&logo=vue.js&logoColor=28B767&color=grey"
        style="width: auto; height: 3rem;"/>&emsp;
   <img src="https://img.shields.io/badge/Bootstrap-Bootstrap?&style=for-the-badge&logo=bootstrap&logoColor=A748E8&color=grey"
        style="width: auto; height: 3rem;"/>&emsp;
